@@ -31,3 +31,6 @@ recording. The input is considered in "SECONDS". So if you want to log it for 1 
 
 
 3. After the data has been collected and stored, run "gyroscope_corr.m" to break down in two components.
+
+
+A SAMPLE VIDEO IS SHOWN IN : https://youtu.be/mTa3Dz5ZIJo
